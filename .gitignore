@@ -1,0 +1,12 @@
+.DS_Store
+.vscode
+test
+obj
+*.a
+.idea
+ush
+._.DS_Store
+*.o
+*.out
+CMakeLists.txt
+cmake-build-debug
